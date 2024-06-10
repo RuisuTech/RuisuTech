@@ -16,11 +16,6 @@ Soy un apasionado estudiante de programación autodidacta con un gran interés e
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📈 Mis Proyectos
-- **[Nombre del Proyecto 1](URL del Proyecto):** Descripción breve de lo que hace el proyecto.
-- **[Nombre del Proyecto 2](URL del Proyecto):** Descripción breve de lo que hace el proyecto.
-- **[Nombre del Proyecto 3](URL del Proyecto):** Descripción breve de lo que hace el proyecto.
-
 ---
 
 ¡Gracias por visitar mi perfil! 😊 Si te gustan mis proyectos o quieres colaborar en algo, no dudes en contactarme :3
