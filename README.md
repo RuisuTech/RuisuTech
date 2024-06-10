@@ -1,7 +1,5 @@
 # ¡Hola! Soy RuisuTech 👋
 
-![Banner](https://your-banner-url.com/banner.png)
-
 ### 👨‍💻 Sobre mí
 Soy un apasionado estudiante de programación autodidacta con un gran interés en desarrollar y aprender nuevas tecnologías. Actualmente, me estoy enfocando en el lado del backend Java.
 
