@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<a href="https://github.com/JluisGit/">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLuisGit&theme=blue-green" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLuisGit&theme=blue-green" width="450"  alt="JLuisuGit"/>
+<a href="https://github.com/RuisuTech/">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuisuTech&theme=blue-green" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuTech&theme=blue-green" width="450"  alt="JLuisuGit"/>
 
 </a>
 </div>
