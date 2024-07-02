@@ -55,7 +55,7 @@
 
 <a href="https://github.com/RuisuTech/">
   <img src="https://github-readme-stats.vercel.app/api?username=RuisuTech&theme=blue-green" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuTech&theme=blue-green" width="450"  alt="JLuisuGit"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuTech&theme=blue-green" width="450"  alt="RuisuTech"/>
 
 </a>
 </div>
