@@ -105,15 +105,12 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 ## Contribuciones
 
-<div align="center">
-
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de ruisutech" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes de ruisutech" width="48%" />
+  <img src="https://vercel.app" alt="Resumen de actividad" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Racha de ruisutech" width="98%" />
+  <img src="https://shields.io" alt="Contribuciones" />
+  <img src="https://shields.io" alt="Código" />
+  <img src="https://shields.io" alt="Rendimiento" />
 </p>
-
-</div>
