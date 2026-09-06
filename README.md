@@ -106,7 +106,8 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 ## Contribuciones
 
 <p align="center">
-[![RuisuTech GitHub stats](https://github-stats-extended.vercel.app/api?username=RuisuTech)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=4&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight)
 </p>
 
 
