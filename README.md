@@ -109,5 +109,7 @@ Soy **Jose Luis Guzman**, desarrollador de software enfocado en la construcción
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=6&theme=tokyonight" width="48%" alt="Top Languages" />
 </div>
