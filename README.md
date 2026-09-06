@@ -108,6 +108,9 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=4&theme=tokyonight" width="48%" />
 </p>
 
