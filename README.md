@@ -103,7 +103,7 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 ---
 
-## Contribuciones
+## Stats
 
 
 <p align="center">
