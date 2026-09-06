@@ -107,6 +107,13 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 <div align="center">
 
-![RuisuTech's github stats](https://github-readme-stats.vercel.app/api?username=RuisuTech&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de ruisutech" width="48%" />
+  <img src="https://vercel.app" alt="Lenguajes de ruisutech" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Racha de ruisutech" width="98%" />
+</p>
 
 </div>
