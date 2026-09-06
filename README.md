@@ -4,27 +4,32 @@
 
 ### **RuisuTech**
 
-Full Stack Developer · Mobile Developer · AI & Automation
+Desarrollador de Software · Web, Mobile & AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruisu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B0F17)](https://www.ruisu.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruisutech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuisuTech)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jl.osorio.guzman@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## 📌 Sobre mí
 
-Soy **Jose Luis Guzman**, conocido como **RuisuTech**. Programador autodidacta enfocado en desarrollo web, móvil e inteligencia artificial.
+Soy **Jose Luis Guzman**, desarrollador de software enfocado en la construcción de aplicaciones web, soluciones móviles y la integración de inteligencia artificial.
 
-Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egresado de la **Beca Generación Digital** y co-fundador de la comunidad **"A Veces Codeamos"**.
+- 🎓 Estudiante de **Desarrollo de Software en IDAT**.
+- 🏅 Egresado de la **Beca Generación Digital Perú** (Front-End & Back-End).
+- 💡 Formación continua con CS50 de Harvard, Oracle Next Education y Platzi.
+- 👥 Co-fundador de la comunidad tech **"A Veces Codeamos"**.
+- 🚀 Comprometido con las buenas prácticas, la arquitectura limpia y la creación de software funcional y escalable.
 
 ---
 
-## Stack y herramientas
+## 🛠️ Stack y Herramientas
 
 ### Frontend
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,11 +43,12 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 </div>
 
 ### Backend
-
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -50,15 +56,14 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 </div>
 
 ### Mobile
-
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
 
-### Bases de datos
-
+### Bases de Datos
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,8 +73,16 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 </div>
 
-### DevOps
+### AI & Automation
+<div align="center">
 
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
+
+</div>
+
+### DevOps & Cloud
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,18 +93,7 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 </div>
 
-### AI & Automation
-
-<div align="center">
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
-
-</div>
-
-### Tools
-
+### Herramientas
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,16 +105,9 @@ Empecé con Platzi, pasé por Oracle Next Education y CS50 de Harvard. Soy egres
 
 ---
 
-## Stats
+## 📊 Estadísticas de GitHub
 
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=4&theme=tokyonight" width="48%" />
-</p>
-
-
-
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=RuisuTech&include_all_commits=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RuisuTech&langs_count=6&theme=tokyonight" width="48%" alt="Top Languages" />
+</div>
